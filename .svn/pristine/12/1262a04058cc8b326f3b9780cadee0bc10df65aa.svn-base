@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/slf4j-log4j12-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/json-20141113.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/sfs2x.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/json-lib-2.2.3-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/sfs2x-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/java-json-schema.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/log4j-1.2.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
